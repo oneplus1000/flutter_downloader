@@ -1,10 +1,10 @@
 .DS_Store
 .dart_tool/
-
+.settings/
 .packages
 .pub/
 pubspec.lock
-
+.project
 build/
 .idea/
 android/.project
@@ -12,3 +12,5 @@ android/.settings/
 example/android/.project
 example/android/.settings/
 example/ios/Flutter/flutter_export_environment.sh
+android/.classpath
+.classpath
